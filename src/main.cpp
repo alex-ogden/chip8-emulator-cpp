@@ -3,7 +3,6 @@
 #include <SDL2/SDL.h>
 #include <chrono>
 #include <filesystem>
-#include <iostream>
 #include <map>
 #include <string>
 #include <thread>
