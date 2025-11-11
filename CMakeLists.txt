@@ -6,9 +6,6 @@ project(chip8-emulator)
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Set compiler explicitly if you want (optional)
-#set(CMAKE_CXX_COMPILER "g++-15")
-
 # Find SDL2
 find_package(SDL2 REQUIRED)
 if(NOT SDL2_FOUND)
