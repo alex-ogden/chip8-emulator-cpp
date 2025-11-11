@@ -1,0 +1,3 @@
+/Users/alex/projects/learning-cpp/chip8-emulator-improved/build/CMakeFiles/chip8-emulator.dir
+/Users/alex/projects/learning-cpp/chip8-emulator-improved/build/CMakeFiles/edit_cache.dir
+/Users/alex/projects/learning-cpp/chip8-emulator-improved/build/CMakeFiles/rebuild_cache.dir
